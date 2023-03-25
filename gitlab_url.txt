@@ -1,7 +1,12 @@
 
-No pude subir el archivo a github por estar muy pesado, entonces utilice gitlab porque permite archivos más pesados.
+No pude subir el archivo a github por estar muy pesado, entonces utilice gitlab porque permite archivos más pesados. 
 
 https://gitlab.com/nextu1/herramientasbuild-systemsytecnologiasemergentesevaluacionfinal.git
+
+Pero aún así consulté y parece que no es necesario compartir los archivos node_modules, .vscode y .angular.
+
+entonces aquí dejo el link de github
+
 
 En teoría podrían ingresar con su cuenta google, a mí me funciona. Pero no sé si cuando lo migre a otra computadora va a funcionar. Sino, está este usuario
 
