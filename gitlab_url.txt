@@ -5,7 +5,9 @@ https://gitlab.com/nextu1/herramientasbuild-systemsytecnologiasemergentesevaluac
 
 Pero aún así consulté y parece que no es necesario compartir los archivos node_modules, .vscode y .angular.
 
-entonces aquí dejo el link de github
+entonces aquí dejo el link de github: 
+
+https://github.com/Ristrato/herramientasBuildSystemsTecnologiasEmergentes.git
 
 
 En teoría podrían ingresar con su cuenta google, a mí me funciona. Pero no sé si cuando lo migre a otra computadora va a funcionar. Sino, está este usuario
