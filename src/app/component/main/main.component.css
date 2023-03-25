@@ -1,0 +1,55 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+
+
+.fondo {
+  background-image: url('src/assets/main-fondo.jpg');
+  background-repeat: no-repeat;
+  background-position: center  bottom;
+  background-size: cover;
+}
+
+
+.container{
+  width: 100%;
+  height: 900px;
+  background-color: rgba(26, 35, 126, 0.5);
+  margin-left: 10%;
+  display:flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  overflow: auto;
+  margin-left: 10% !important;
+
+}
+
+
+
+.ancho{
+ border-radius: 10px;
+ width: 100% !important;
+}
+
+i {
+  color: black;
+   font-size: 27px !important;
+
+}
+
+
+h3 {
+  color: black;
+  margin-left: 4%;
+  font-weight: bold;
+}
+
+.iq{
+    margin-left: 15px !important;
+}
+
+.tp{
+  margin-top: -5px;
+}

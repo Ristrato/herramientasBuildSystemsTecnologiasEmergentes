@@ -1,0 +1,62 @@
+<body class="fondo">
+
+     <div class="row">
+       <div class="col s8">
+         <div class="container">
+           <h3 class="col s12 white-text">Inicio de Sesión</h3>
+           <form [formGroup]="formLogin" (ngSubmit)="onSubmit()">
+
+
+
+
+               <div class="row">
+                  <div class="col s12">
+                  <div class="input-field ">
+                  <input id="email_inline" type="email" class="validate form-label white-text form-control input-field" formControlName="email" required>
+                  <label for="email_inline" class="form-label white-text">Email</label>
+                  <span class="helper-text" data-error="No ingresó correo o el correo no existe, por favor registre usuario nuevo con el botón verde de abajo." data-success="¡Muy bien!"></span>
+                 </div>
+               </div>
+             </div>
+
+
+             <div class="row">
+                    <div class="input-field col s12">
+                      <input id="password" type="password" class="validate form-control" formControlName="password" required>
+                      <label class="form-label white-text" for="password">Password</label>
+                      <span class="helper-text" data-error="Por favor ingrese una clave" data-success="Sip, aquí todo bien."></span>
+                    </div>
+                  </div>
+
+
+
+
+
+               <div class="row">
+                 <div class="col s3">
+              <input id="boton"  class="btn waves-effect waves-light" type="submit" value="entrar">
+                 </div>
+                 <div class="col s9">
+                 <tooltip></tooltip>
+                    </div>
+               </div>
+               <div class="row">
+                 <span tooltip="Puedes registrarte con tu correo de Google aquí" placement="right" ><button class="btn btn-info centrarpinchbtn  orange accent-1" (click)="onClick()">Google login</button></span>
+
+               </div>
+
+
+
+
+           </form>
+         </div>
+       </div>
+     </div>
+
+</body>
+
+<script type="text/javascript">
+
+
+
+</script>

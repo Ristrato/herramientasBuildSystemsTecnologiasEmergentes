@@ -1,0 +1,10 @@
+
+No pude subir el archivo a github por estar muy pesado, entonces utilice gitlab porque permite archivos más pesados.
+
+https://gitlab.com/nextu1/herramientasbuild-systemsytecnologiasemergentesevaluacionfinal.git
+
+En teoría podrían ingresar con su cuenta google, a mí me funciona. Pero no sé si cuando lo migre a otra computadora va a funcionar. Sino, está este usuario
+
+
+prueba@gmail.com
+Hola2023
